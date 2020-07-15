@@ -1,0 +1,148 @@
+.navbar{
+background-color: rgb(22, 119, 119);
+
+    }
+.title-nav{
+    margin-left: 200px;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 700;
+}
+#navbarNav{
+   
+    margin-left: 200px;
+}
+.navlink{
+    color: aliceblue;
+}
+.img-draw{
+   
+    margin-left: 20px;
+    margin-top: 5px;
+    
+}
+.text-first{
+    width: 414px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.btn{
+    margin-top: -75px;
+    margin-left: -520px;
+    font-size: 11px;
+}
+.embed-responsive{
+    width: 400px;
+    float:right;
+    margin-top: -340px;
+    margin-right: 100px;
+}
+.text-second{
+    
+    width: 400px;
+    float: right;
+    margin-right: 93px;
+}
+.obesidade{
+    font-size: 15px;
+    margin-left: 9px;
+    margin-right: -3px;
+}
+footer{
+    width: 207px;
+    background-color: black;
+    margin-top: 94px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    margin-left: 500px;
+    color: aqua;
+}
+.p-2{
+    width: 40px;
+    margin-bottom: 10px;
+   
+}
+.d-flex{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.calcimc{
+    display: block;
+    width: 300px;
+    margin: auto;
+}
+.card-wrap{ 
+    margin-top: -678px;
+    margin-left: 485px;
+    background-color: rgb(142, 108, 160);
+    height: 200px;
+}
+.card-wrap label{
+    font-weight: 800;
+    font-size: 20px;
+}
+
+#botao{
+    margin: auto;
+    border: none;
+    border-radius: 10px;
+    background-color: chartreuse;
+    margin-bottom: -30px;
+    width: 70px;
+    margin-top: 10px;
+}
+.card{
+    border-radius: 10px;
+   border: none;
+   height: 84px;
+    margin-left: 10px;
+   
+}
+.doencadesleixo{
+    float: right;
+    margin-right: 97px;
+    margin-top: 46px;
+    /* font-size: 26px; */
+    /* font-weight: 800; */
+    /* color: brown; */
+}
+.contato{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.quemsomos{
+    float: right;
+    margin-top: 200px;
+    margin-right: -406px;
+    width: 370px;
+}
+.sobre{
+    margin-top: 470px;
+    margin-left: 20px;
+}
+.alert{
+    width: 325px;
+    height: 95px;
+    margin: auto;
+    text-align: center;
+    color: mediumblue;
+    border-radius: 52px;
+    background-color: gainsboro;
+    display: none;
+    cursor: pointer;
+    
+}
+
+/* @media screen and  (min-width: 500px) and (max-width:640px) { 
+    .navbar{
+        width: 100%;
+    }
+    .title-nav{
+        height: 60px;
+        font-size: 20px;
+        margin-right: 200px;
+        margin-bottom: 200px;
+      
+    }
+ } */
