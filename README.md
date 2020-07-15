@@ -1,2 +1,2 @@
 # calculoIMC
-projeto de calculadora imc em andamento
+* projeto calculadora IMC  para iniciantes
